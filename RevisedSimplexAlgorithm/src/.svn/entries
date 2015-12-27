@@ -1,0 +1,77 @@
+10
+
+dir
+9
+https://adm1-revised-simplex-algorithm.googlecode.com/svn/RevisedSimplexAlgorithm/src
+https://adm1-revised-simplex-algorithm.googlecode.com/svn
+
+
+
+2014-01-14T11:22:46.141347Z
+9
+flohannes@googlemail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1f4f0e64-1c6b-0ea1-cbba-fec8b13a37a7
+
+Algo
+dir
+
+Datenstrukturen
+dir
+
+InputData
+dir
+
+OutputData
+dir
+
+Parser
+dir
+
+simplex.java
+file
+
+
+
+
+2014-01-12T20:08:06.393000Z
+d2376c1a75a897a8f08a5742a0a96317
+2014-01-14T11:22:46.141347Z
+9
+flohannes@googlemail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1058
+

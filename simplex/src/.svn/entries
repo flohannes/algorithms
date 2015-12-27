@@ -1,0 +1,40 @@
+10
+
+dir
+11
+https://adm-rev-simplex-algorithm.googlecode.com/svn/SimplexAlgorithm/src
+https://adm-rev-simplex-algorithm.googlecode.com/svn
+
+
+
+2013-06-05T14:09:35.814634Z
+11
+rene.wetzig@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6bdf81c4-ca06-8b4a-7c27-c483770ae5e3
+
+Algo
+dir
+
+Datenstrukturen
+dir
+
+InputData
+dir
+
+Parser
+dir
+

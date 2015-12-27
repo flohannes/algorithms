@@ -1,0 +1,21 @@
+graph:
+dir:1; simp:1; eucl:0; int:1; ew:1; vw:0;
+scroller:
+vdim:1000; hdim:1000; vlinc:10; hlinc:10; vpinc:50; hpinc:50;
+vertices:5;
+n:1; x:421; y:385;
+n:2; x:89; y:71;
+n:3; x:553; y:34;
+n:4; x:281; y:94;
+n:5; x:109; y:380;
+edges:10;
+h:2; t:1; e:2; w:4;
+h:3; t:1; e:2; w:4;
+h:4; t:1; e:2; w:1;
+h:5; t:1; e:2; w:4;
+h:3; t:2; e:2; w:4;
+h:4; t:2; e:2; w:4;
+h:5; t:2; e:2; w:4;
+h:4; t:3; e:2; w:1;
+h:5; t:3; e:2; w:1;
+h:5; t:4; e:2; w:3;

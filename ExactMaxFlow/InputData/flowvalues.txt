@@ -1,0 +1,41 @@
+V5C.cat	
+	maximal flow from vertex 1 to vertex 5 : 12.0
+	maximal flow from vertex 3 to vertex 5 : 10.0
+
+V5CD.cat
+	maximal flow from vertex 1 to vertex 5 : 11.0
+	maximal flow from vertex 3 to vertex 5 : 2.0
+	
+
+V200E800.cat
+	maximal flow from vertex 1 to vertex 200 : 11.194676
+	maximal flow from vertex 12 to vertex 56 : 15.641528
+	maximal flow from vertex 79 to vertex 187 : 10.117965
+	maximal flow from vertex 150 to vertex 50 : 17.823764
+V200E800D.cat
+	maximal flow from vertex 1 to vertex 200 : 5.230433
+	maximal flow from vertex 12 to vertex 56 : 9.212543
+	maximal flow from vertex 79 to vertex 187 : 8.151562
+	maximal flow from vertex 150 to vertex 50 : 8.78751
+
+Grid50x50.cat
+	maximal flow from vertex 1 to vertex 2500 : 0.959804
+	maximal flow from vertex 1 to vertex 1111 : 0.959804
+	maximal flow from vertex 2 to vertex 2500 : 5.760347
+	maximal flow from vertex 2 to vertex 50 : 10.234722
+	maximal flow from vertex 234 to vertex 2179 : 15.558781
+
+Grid50x50D.cat		
+	maximal flow from vertex 1 to vertex 2500 : 0.959804
+	maximal flow from vertex 1 to vertex 2500 : 0.959804
+	maximal flow from vertex 2 to vertex 2500 : 5.760347
+	maximal flow from vertex 2 to vertex 50 : 0.460373
+	maximal flow from vertex 234 to vertex 2179 : 0
+
+V406E607.cat
+	maximal flow from vertex 1 to vertex 2 : 203.0
+	maximal flow from vertex 1 to vertex 406 : 101.0
+
+V20006E30007.cat
+	maximal flow from vertex 1 to vertex 20006 : 5001.0
+	maximal flow from vertex 1 to vertex 2 : 10003.0
